@@ -1,7 +1,7 @@
 # 코딩 문제풀이 습관 들이기 시즌 1
 
 try. 한 주에 최소 1문제 ~ 최대 3문제 풀이  
-must. 최소 1문제
+must. 최소 1문제  
 ref. https://programmers.co.kr/learn/challenges
 
 
