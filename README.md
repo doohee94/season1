@@ -13,5 +13,6 @@ ref. https://programmers.co.kr/learn/challenges
 |4|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
 |5|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982) 
 |6|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+|7|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 
 5주 차 특별 문제 - [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) 병렬로 풀어보기
